@@ -1,5 +1,5 @@
 # Credit Card Default and Risk Scores with Logistic Regression
-  In this paper, we obtain simulated credit card default data from the ISLR package in R. The data
+  In this paper, we obtain simulated credit card default data from the `ISLR` package in R. The data
 contains information on a dichotomous response, credit card default, and the goal is to obtain a logistic
 regression model that accurately predicts the classification of an individual. The paper obtains two logistic
 regression models, one with a covariate indicating if an individual is a student and one without this
