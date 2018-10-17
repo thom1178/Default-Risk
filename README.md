@@ -17,4 +17,4 @@ that student status does not supply much information to the outcome of default. 
 because students are primarily either in deferment or on a grace period while in school. The
 biggest contributing factor to the outcome of default is the loan balance. Overwhelmingly, a higher
 balance increased the odds of default over a lower balance. This effect is seen as an expected 83%
-increase in odds of default for every $100 increase in balance.
+increase in odds of default for every $100 increase in balance
